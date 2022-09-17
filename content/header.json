@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "SEGUE NOSSAS REDE SOCIAL PRA SABER QUAL CUPOM DA SEMANA",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -23,5 +23,7 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
