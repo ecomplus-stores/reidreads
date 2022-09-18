@@ -1,11 +1,11 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Entregamos para todo o Brasil pelo correios ",
     "title": "Consulta seu cep temos entrega GRÁTIS "
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "Parcele sem juros até 4 vezes",
     "title": "Parcelamos pelo nosso site e também na loja fisica"
   },
@@ -14,7 +14,7 @@
     "text": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!",
     "title": "Temos cupom todos os dia segue nossas redes sociais"
   }
