@@ -29,14 +29,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "page": 1,
+      "title": "Dreads é vida!!",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "https://wa.me/message/Y5J7M2ZOQCB4O1",
       "limit": 12,
-      "page": 1
+      "collection_id": "61d785d10c7c727225f72a87:categories:Dreads:/dreads",
+      "sort": "sales"
     },
     {
       "type": "page-title",
