@@ -10,7 +10,7 @@
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categorias",
+    "title": "categorias",
     "list": []
   },
   "contacts": {
@@ -36,7 +36,7 @@
     "hipercard": false,
     "hsbc": false,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
     "citibank": false,
     "mais": false,
