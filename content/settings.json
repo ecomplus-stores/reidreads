@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#ff0000",
   "logo": "/img/uploads/1625057551587_logo.png",
   "name": "reidreads",
   "short_name": "reidreads",
@@ -20,6 +20,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/1625057551587_logo.png",
   "store_id": 21767,
-  "description": "reidreads",
+  "description": "reidreads tabacaeia e ateliê ",
   "large_icon": "/img/uploads/1625057551587_logo.png"
 }
