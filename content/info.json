@@ -2,11 +2,12 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil pelo correios ",
-    "title": "Consulta seu cep temos entrega free "
+    "title": "Consulta seu cep temos entrega GRÁTIS "
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele sem juros até 4 vezes",
+    "title": "Parcelamos pelo nosso site e também na loja fisica"
   },
   "exchange": {
     "show": false,
