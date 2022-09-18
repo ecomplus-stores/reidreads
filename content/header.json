@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "SEGUE NOSSAS REDE SOCIAL PRA SABER QUAL CUPOM DA SEMANA",
-    "link": ""
+    "link": "",
+    "background": "#00e200",
+    "color": "#2707e4"
   },
   "contacts_stripe": {
     "pages": [
