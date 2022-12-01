@@ -2,5 +2,13 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "### Lorem ipsum dolor sit amet",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "https://pw.restaurantguru.com/pt/95500513/r/RestaurantGuru_Certificate1.png?download",
+      "mobile_img": "https://pw.restaurantguru.com/pt/95500513/r/RestaurantGuru_Certificate1.png?download",
+      "link": "https://restaurantguru.com.br/amp/rei-dreads-Osasco"
+    }
+  ]
 }
