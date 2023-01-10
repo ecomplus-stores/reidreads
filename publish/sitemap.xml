@@ -2,6 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://reidreads.com/sedas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/piteiras-e-filtro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/insumo-narguile</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/bebidas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/nao-alcoolicas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/bebidas-alcoolicas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/tabacos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/sedas-unidade-disco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/porcoes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/artigos-de-tabacaria</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/dichavador-de-ferros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/dichavador-fibra-de-coco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/slick-grande-e-pequenos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/papper-de-ferro-ou-vidro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/atelie</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/dreads</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/combos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/combo-porcao-mais-bebidas-alcoolicas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/aluguel-de-narguile</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/salgadinho-e-doces</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/atacado-fardo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://reidreads.com/ocb-slim</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -81,12 +207,6 @@
   
     <url>
       <loc>https://reidreads.com/dichavador-de-ferro-grande-2-parte</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/dichavador-fibra-de-coco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -626,139 +746,19 @@
     </url>
   
     <url>
-      <loc>https://reidreads.com/sedas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/piteiras-e-filtro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/insumo-narguile</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/bebidas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/nao-alcoolicas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/bebidas-alcoolicas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/tabacos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/sedas-unidade-disco</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/porcoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/artigos-de-tabacaria</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/dichavador-de-ferros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/slick-grande-e-pequenos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/papper-de-ferro-ou-vidro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/atelie</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/dreads</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/combos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/combo-porcao-mais-bebidas-alcoolicas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/aluguel-de-narguile</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/salgadinho-e-doces</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://reidreads.com/atacado-fardo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://reidreads.com/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://reidreads.com/pages/faq</loc>
+      <loc>https://reidreads.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://reidreads.com/pages/entrega</loc>
+      <loc>https://reidreads.com/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -818,15 +818,15 @@
     </url>
   
     <url>
-      <loc>https://reidreads.com/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://reidreads.com/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://reidreads.com/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
