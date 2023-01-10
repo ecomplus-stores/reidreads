@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7752293875dc6abd87fd3a9a229e4779.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0797a7e371258c54ed32cc8b488a84c0.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b2c10ab6b0209b69c5dfc09b112dce86.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.7373edc3f749b4060820fc672b808aa1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.38bdc87c0ea90e4774be098c9448a864.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "reidreads",
+  "short_name": "reidreads",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "               seja bem vindo a Rei Dreads!!!\n\n\nAqui na rei dreads fazemos dreads de agulha e removível, Também temos um ótimo espaço pra aluguel de narguilé \numa diversidade de artigos de fumo como bong, papper, dichavador, bandejas, e muito mais.\nTemos um bar com diversas bebidas alcoólicas e não alcoólica.\n\nNosso trajeto até aqui como foi.\n\nComeçamos com nossa atividade em 2017, com atelie fazendo dreads de agulha e manutenção. Em 2018 veio a tabacaria na rei dreads, atendendo em festivais de musica eletrônica ai em 2019 exatamente em agosto demos entrada formalmente  no cnpj da loja e inauguramos em outubro, estamos muito feliz em passar por esses anos e dando o melhor de nós pra atender você da melhor forma e conforto...",
+  "background_color": "#ff0000",
+  "theme_color": "#222831"
+}
